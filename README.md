@@ -4,7 +4,7 @@ Perkenalkan nama saya **Ari Susanto**.
 
 Saya seorang **Software Developer** dengan fokus pada arsitektur sistem, C++ modern (C++23), coroutine, serta pengembangan embedded systems.
 
-Saya juga sedang mengembangkan proyek riset pribadi di bidang computer vision dan deep learning.
+Saat ini saya juga mengembangkan proyek riset pribadi di bidang computer vision dan deep learning.
 
 ---
 
@@ -19,6 +19,12 @@ Focus: efficient architecture, small model size, edge deployment ready
 
 ## ⚙️ Tech Stack
 
+![C++](https://img.shields.io/badge/C++-23-blue)
+![Python](https://img.shields.io/badge/Python-DeepLearning-yellow)
+![Embedded](https://img.shields.io/badge/Embedded-ESP8266%20%7C%20ESP32-green)
+![Linux](https://img.shields.io/badge/OS-Linux-black)
+![Git](https://img.shields.io/badge/Workflow-Git%20Worktree-orange)
+
 - C++23 (Coroutine, Concepts, Ranges)
 - Python (Deep Learning, Computer Vision)
 - Embedded Systems (ESP8266 / ESP32)
@@ -27,13 +33,10 @@ Focus: efficient architecture, small model size, edge deployment ready
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabepro&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daberpro&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+GitHub secara otomatis menampilkan contribution graph di halaman profil saya:  
+👉 https://github.com/daberpro
 
 ---
 
