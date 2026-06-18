@@ -63,8 +63,6 @@ I enjoy building meaningful projects, exploring low-level performance, and desig
 
 ---
 
----
-
 ## 🚀 Current Focus
 
 - Building efficient deep learning architectures for computer vision.
